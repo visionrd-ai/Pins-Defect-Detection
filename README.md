@@ -5,6 +5,7 @@ The use case is a car’s fuse box with over 60 fuses connected to different com
 
 
 ### Some example masks (All, Not Good, Good)
+
 <p align="center">
   <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/8414860f-e932-4d3f-ae4e-5ce27b28718b" />
   <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/41433d96-1557-4a70-b891-ceb7792e685f" />
@@ -40,7 +41,6 @@ A dataset of ~100 images, 30 for each terminal labelled with “Good” and “N
 Read the [blog]([url](https://visionrdai.com/home/blog/13)https://visionrdai.com/home/blog/13)!
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
-    
   <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/8414860f-e932-4d3f-ae4e-5ce27b28718b" width="3%" alt="" />
   </a>
