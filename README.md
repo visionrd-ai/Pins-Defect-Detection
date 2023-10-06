@@ -3,6 +3,12 @@
 ## Introduction
 The use case is a car’s fuse box with over 60 fuses connected to different components, and usually 3 pin terminals all with different shapes and sizes. The fuse box in test/fusebox.jpg shows 3 of them, each of which has a different number and shape of pins.
 
+<div align="center">
+  <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
+    <img src="[https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png])" width="2%" alt="" /></a>
+</div>
+
+
 <p align="center">
   <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/f80891c5-085d-4216-afbc-f2566b1e19f5" />
   <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/08a49262-4898-4be5-9154-8ac20f591b60" />
@@ -42,9 +48,5 @@ A dataset of ~100 images, 30 for each terminal labelled with “Good” and “N
 
 ## More
 Read the [blog]([url](https://visionrdai.com/home/blog/13)https://visionrdai.com/home/blog/13)!
-<div align="center">
-  <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
-    <img src="[https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png])" width="2%" alt="" /></a>
-</div>
 
 
