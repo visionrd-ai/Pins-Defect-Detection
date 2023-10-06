@@ -5,7 +5,7 @@ The use case is a car’s fuse box with over 60 fuses connected to different com
 
 <div align="center">
   <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
-    <img src="[https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png])" width="2%" alt="" /></a>
+    <img src="[https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/59704eff-cc2d-47a3-9105-d452bfa44c5b])" width="2%" alt="" /></a>
 </div>
 
 
