@@ -10,6 +10,7 @@ The use case is a car’s fuse box with over 60 fuses connected to different com
   <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/8414860f-e932-4d3f-ae4e-5ce27b28718b" />
   <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/41433d96-1557-4a70-b891-ceb7792e685f" />
   <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/3bb7976f-19ea-45f9-a6a3-8ba2609e9460" />
+</p>
 
 ## Setup
 
@@ -59,7 +60,6 @@ Read the [blog]([url](https://visionrdai.com/home/blog/13)https://visionrdai.com
     <img src="" width="3%" alt="" />
   </a>
 </div>
-</p>
 
 
 
