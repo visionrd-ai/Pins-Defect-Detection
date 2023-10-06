@@ -44,7 +44,7 @@ Read the [blog]([url](https://visionrdai.com/home/blog/13)https://visionrdai.com
   <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
     <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/8414860f-e932-4d3f-ae4e-5ce27b28718b" width="3%" alt="" />
   </a>
-  <a href="" style="text-decoration:none;">
+  <a href="" align="center" style="text-decoration:none;">
     <img src="" width="3%" alt="" />
   </a>
     <a href="" style="text-decoration:none;">
@@ -53,7 +53,7 @@ Read the [blog]([url](https://visionrdai.com/home/blog/13)https://visionrdai.com
     <a href="" style="text-decoration:none;">
     <img src="" width="3%" alt="" />
   </a>
-    <a href="" style="text-decoration:none;">
+    <a href="" align="center" style="text-decoration:none;">
     <img src="" width="3%" alt="" />
   </a>
     <a href="" style="text-decoration:none;">
