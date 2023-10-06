@@ -40,26 +40,27 @@ A dataset of ~100 images, 30 for each terminal labelled with “Good” and “N
 ## More
 Read the [blog]([url](https://visionrdai.com/home/blog/13)https://visionrdai.com/home/blog/13)!
 
-<div style="display: flex; justify-content: flex-start; align-items: center;">
-  <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/visionrd-ai" style="text-decoration: none; margin: 0 10px;">
     <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/8414860f-e932-4d3f-ae4e-5ce27b28718b" width="3%" alt="" />
   </a>
-  <a href="" align="center" style="text-decoration:none;">
+  <a href="#" style="text-decoration: none; margin: 0 10px;">
     <img src="" width="3%" alt="" />
   </a>
-    <a href="" style="text-decoration:none;">
+  <a href="#" style="text-decoration: none; margin: 0 10px;">
     <img src="" width="3%" alt="" />
   </a>
-    <a href="" style="text-decoration:none;">
+  <a href="#" style="text-decoration: none; margin: 0 10px;">
     <img src="" width="3%" alt="" />
   </a>
-    <a href="" align="center" style="text-decoration:none;">
+  <a href="#" style="text-decoration: none; margin: 0 10px;">
     <img src="" width="3%" alt="" />
   </a>
-    <a href="" style="text-decoration:none;">
+  <a href="#" style="text-decoration: none; margin: 0 10px;">
     <img src="" width="3%" alt="" />
   </a>
 </div>
+
 
 
 
