@@ -42,3 +42,9 @@ A dataset of ~100 images, 30 for each terminal labelled with “Good” and “N
 
 ## More
 Read the [blog]([url](https://visionrdai.com/home/blog/13)https://visionrdai.com/home/blog/13)!
+<div align="center">
+  <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
+    <img src="[https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png])" width="2%" alt="" /></a>
+</div>
+
+
