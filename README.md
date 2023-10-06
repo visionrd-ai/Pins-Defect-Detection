@@ -3,11 +3,20 @@
 ## Introduction
 The use case is a car’s fuse box with over 60 fuses connected to different components, and usually 3 pin terminals all with different shapes and sizes. The fuse box in test/fusebox.jpg shows 3 of them, each of which has a different number and shape of pins.
 
-<div align="center">
-  <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
-    <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/59704eff-cc2d-47a3-9105-d452bfa44c5b" width="2%" alt="" /></a>
+<div style="display: flex; justify-content: flex-start; align-items: center;">
+    
+  <a href="https://visionrdai.com/" style="text-decoration:none;">
+    <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/8414860f-e932-4d3f-ae4e-5ce27b28718b" width="3%" alt="" />
+  </a>
+  
 </div>
 
+
+
+
+<p align="center">
+  <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/8414860f-e932-4d3f-ae4e-5ce27b28718b" />
+</p>
 
 <p align="center">
   <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/f80891c5-085d-4216-afbc-f2566b1e19f5" />
