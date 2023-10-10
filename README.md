@@ -34,6 +34,15 @@ Run the following command to test your models.
 
 ```python3 predict_trt.py --input <your_test_image>```
 
+### Results
+
+<p align="center">
+  <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/61282665-7290-4362-8a47-9361509bd31f" />
+  <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/d85eb42e-eaaf-4eff-8c65-e9cf5e8c16ae" />
+  <img src="https://github.com/visionrd-ai/Pins-Defect-Detection/assets/87422803/feef03a8-3eb8-4d74-ad3d-285f4973e7f3" />
+</p>
+
+
 ## Create Your Own
 A dataset of ~100 images, 30 for each terminal labelled with “Good” and “Not Good” masks is used. Although it is crucial to ensure that the lighting conditions and camera focus are pitch-perfect, the dataset overall should represent everything the model should expect to see in production. For this purpose, we use Albumentations to add random translation, rotation, and scaling to the training data. Once the dataset is ready, follow training instructions as before.
 
