@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://ultralytics.com/">
   <img width="700" src="https://github.com/visionrd-ai/.github/assets/145563962/79a92550-c2e4-49f3-8229-bfe6545e54ea"></a>
 </p>
 
